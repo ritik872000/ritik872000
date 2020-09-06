@@ -8,13 +8,20 @@
 
 ## 🔧 Tools and Technologies  
 
-<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code><br>
-<code><a target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"></a></code><br>
-<code><a target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></a></code><br>
-<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code><br>
-<code><a target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></a></code><br>
-<code><a target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></a></code><br>
-<code><a target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/excel-4.svg"></a></code><br>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+
+<code><a target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"></a></code>
+
+<code><a target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></a></code>
+
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+
+<code><a target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></a></code>
+
+<code><a target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></a></code>
+
+<code><a target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/excel-4.svg"></a></code>
+
 <code><a target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"></a></code>
 
 ## 🤝 Connect With me at
