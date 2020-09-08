@@ -87,7 +87,29 @@
 
 ## 🤝 Connect With me at
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ritikkesharwani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ritik%20Kesharwani-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ritik872000/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ritik872000-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ritikkesharwani3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ritikkesharwani3@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+ <a href="https://www.linkedin.com/in/ritikkesharwani/">
+<img height=60px src="https://image.flaticon.com/icons/png/512/174/174857.png"> 
+ </a>
+</td>
+
+<td align="center" width="20%">
+  <a href="ritikkesharwani3@gmail.com">
+<img height=60px src="https://1000logos.net/wp-content/uploads/2018/04/Gmail-logo.png"> 
+    </a>
+</td>
+
+<td align="center" width="20%">
+  <a href="https://www.instagram.com/ritik872000/?hl=en">
+<img height=60px src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg"> 
+    </a>
+</td>
+</tr>
+</tr>
+
+</tbody>
+</table>
