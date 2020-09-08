@@ -98,7 +98,7 @@
 </td>
 
 <td align="center" width="20%">
-  <a href="ritikkesharwani3@gmail.com">
+  <a href = "mailto: ritikkesharwani3@gmail.com">
 <img height=60px src="https://1000logos.net/wp-content/uploads/2018/04/Gmail-logo.png"> 
     </a>
 </td>
