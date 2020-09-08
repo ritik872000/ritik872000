@@ -105,7 +105,7 @@
 
 <td align="center" width="20%">
   <a href="https://www.instagram.com/ritik872000/?hl=en">
-<img height=60px src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg"> 
+<img height=60px src="https://image.flaticon.com/icons/svg/1384/1384063.svg"> 
     </a>
 </td>
 </tr>
