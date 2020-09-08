@@ -1,9 +1,11 @@
 # Hello, World!👋
 
 ## 👨🏻‍💻 About me 
-- 🎓 &nbsp; Studying Computer Engineering at MMCOE, Pune.
-- 🌱 &nbsp; Learning more about Machine Learning, Deep Learning and NLP.
-- 😁 &nbsp; Vice Chairman of ISTE SC MMCOE.
+- 🔭 I’m currently working on a Chatbot.
+- 🌱 I’m currently learning Natural Language Processing.
+- 👯 I’m looking to collaborate on ML/DL Projects.
+- 💬 Ask me about Machine Learning.
+- 📫 How to reach me: ritikkesharwani3@gmail.com
 
 ## 🔧 Tools and Technologies  
 
