@@ -85,7 +85,7 @@
 </table>
 
 
-## 🤝 Connect With me on
+## 🤝 Connect with me on
 
 <br>
 <table>
