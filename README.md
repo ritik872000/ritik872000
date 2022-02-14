@@ -1,10 +1,7 @@
 # Hello, World!👋
 
 ## 👨🏻‍💻 About me 
-- 🔭 I’m currently working on a Chatbot.
-- 🌱 I’m currently learning Computer Vision.
-- 👯 I’m looking to collaborate on ML/DL Projects.
-- 💬 Ask me about Machine Learning.
+- 🏢 I’m currently working as a Software Engineer Trainee at Volkswagen IT Serivices.
 - 📫 How to reach me: https://www.linkedin.com/in/ritikkesharwani/
 
 ## 🔧 Technology Stack 
