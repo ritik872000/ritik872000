@@ -1,8 +1,8 @@
 # Hello, World!👋
 
 ## 👨🏻‍💻 About me 
-- 🏢 I’m currently working as a Software Engineer Trainee at Volkswagen IT Serivices.
-- 📫 How to reach me: https://www.linkedin.com/in/ritikkesharwani/
+- 🏢 I’m currently working as a Software Engineer at Volkswagen Group Technology Solutions.
+- Reach out to me on LinkedIn: https://www.linkedin.com/in/ritikkesharwani/, Email: ritikkesharwani3@gmail.com
 
 ## 🔧 Technology Stack 
 
@@ -76,36 +76,6 @@
 <span><b><center>Machine Learning</center></b></span> 
 <img height=65px src="https://img.icons8.com/doodle/2x/learning.png"> 
 </td>
-</tr>
-
-</tbody>
-</table>
-
-
-## 🤝 Connect with me on
-
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
- <a href="https://www.linkedin.com/in/ritikkesharwani/">
-<img height=60px src="https://image.flaticon.com/icons/png/512/174/174857.png"> 
- </a>
-</td>
-
-<td align="center" width="20%">
-  <a href = "mailto: ritikkesharwani3@gmail.com">
-<img height=60px src="https://1000logos.net/wp-content/uploads/2018/04/Gmail-logo.png"> 
-    </a>
-</td>
-
-<td align="center" width="20%">
-  <a href="https://www.instagram.com/ritik872000/?hl=en">
-<img height=60px src="https://image.flaticon.com/icons/svg/1384/1384063.svg"> 
-    </a>
-</td>
-</tr>
 </tr>
 
 </tbody>
